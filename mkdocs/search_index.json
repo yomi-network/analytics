@@ -2,18 +2,58 @@
     "docs": [
         {
             "location": "/", 
-            "text": "\u00a1Bienvenido al centro de conocimiento de Yomi!\n\n\n\n\nRed social para el descubrimiento, b\u00fasqueda y recomendaci\u00f3n de men\u00fas y recetas de cocina con todas las instrucciones y t\u00e9rminos para que puedas prepararlas de forma f\u00e1cil y sin confusi\u00f3n.", 
+            "text": "\u00a1Bienvenido al centro de conocimiento de Yomi!\n\n\n\n\nRed social para el descubrimiento, b\u00fasqueda y recomendaci\u00f3n de men\u00fas y recetas de cocina con todas las instrucciones y t\u00e9rminos para que puedas prepararlas de forma f\u00e1cil y sin confusi\u00f3n.\n\n\nEn este centro de conocimiento encontraras material relacionado a las caracteristicas y el funcionamiento de la aplicaci\u00f3n, adem\u00e1s de enlances relacionados al estado actual de la aplicaci\u00f3n y sus nuevas caracteristicas.", 
             "title": "Home"
         }, 
         {
             "location": "/#bienvenido-al-centro-de-conocimiento-de-yomi", 
-            "text": "Red social para el descubrimiento, b\u00fasqueda y recomendaci\u00f3n de men\u00fas y recetas de cocina con todas las instrucciones y t\u00e9rminos para que puedas prepararlas de forma f\u00e1cil y sin confusi\u00f3n.", 
+            "text": "Red social para el descubrimiento, b\u00fasqueda y recomendaci\u00f3n de men\u00fas y recetas de cocina con todas las instrucciones y t\u00e9rminos para que puedas prepararlas de forma f\u00e1cil y sin confusi\u00f3n.  En este centro de conocimiento encontraras material relacionado a las caracteristicas y el funcionamiento de la aplicaci\u00f3n, adem\u00e1s de enlances relacionados al estado actual de la aplicaci\u00f3n y sus nuevas caracteristicas.", 
             "title": "\u00a1Bienvenido al centro de conocimiento de Yomi!"
         }, 
         {
             "location": "/guia/", 
-            "text": "", 
+            "text": "Guia de funcionalidades para el usuario\n\n\nAgregar receta\n\n\nEl barra de opciones ubicada en la parte inferior de la aplicaci\u00f3n, podras ver el icono \n+\n, este indica que puedes agregar un recurso, en este caso una receta.\n\n\nCuando hagas tap sobre el icono se hara un cambio de vista donde podras ingresar los elementos ya sean imagenes, ingredientes o pasos para agregar una nueva receta. Cuando finalizes da tap sobre el boton de crear nueva receta e inmediatamente seras digirijido a la vista de tu timeline.\n\n\nListado de mis recetas\n\n\nEn la barra inferior de la aplicaci\u00f3n, situada justo arriba de los botones de navegaci\u00f3n se visualiza el icono de persona, el cual te llevara a la vista de tu perfil. En esta vista encontraras un boton con la leyenda de mis recetas, presionalo y se desplegara la ista de tus recetas.\n\n\nAgregar un menu\n\n\nEl barra de opciones ubicada en la parte inferior de la aplicaci\u00f3n, podras ver el icono \n+\n, este indica que puedes agregar un recurso, en este caso un menu.\n\n\nCuando presiones el icono cambiara a una vista donde podras ingresar los elementos correspondiente a menu, como son titutlo, descripci\u00f3n, recetas e imagenes donde podras aprovechar toda tu creatividad para ayudar a las personas que tu menu es el indicado para esa ocasi\u00f3n que buscan. Cuando finalizes presiona el boton de crear nuevo menu e inmediatamente seras digirijido a la vista de tu timeline.\n\n\nListado de mis menus\n\n\nEn la barra inferior de la aplicaci\u00f3n, situada justo arriba de los botones de navegaci\u00f3n se visualiza el icono de persona, el cual te llevara a la vista de tu perfil. En esta vista encontraras un boton con la leyenda de mis recetas, presionalo y se desplegara la ista de tus recetas.\n\n\nTimeline\n\n\nEsta es la vista predeterminada cuando se inicia la aplicaci\u00f3n. Si has perdido el foco de esta vista y deseas regresar a ella en el menu inferiro encontraras un boton con forma de lista, presionalo y desplegara la vista de timeline. \n\n\n\n\n\u00a1No hay lugar como el hogar!\n\n\n\n\nMi Perfil\n\n\nEl barra de opciones ubicada en la parte inferior de la aplicaci\u00f3n, podras ver el icono de persona, cuando lo presiones mostrara una nueva vista con tu perfil. Es ta vista podras ver tanto tus recetas, menus y tus favoritos. Adem\u00e1s presentara informaci\u00f3n b\u00e1sica acerca de tu numero de tus seguidores.\n\n\nTodo lo demas\n\n\nSigue de cerca las nuevas funcionalidades en \nnuestro repositorio\n. Cada nueva caracteristica implementada se agregara su respectivo uso y scheenshot al final de este documento y antes de esta secci\u00f3n.", 
             "title": "Guia de usuario"
+        }, 
+        {
+            "location": "/guia/#guia-de-funcionalidades-para-el-usuario", 
+            "text": "", 
+            "title": "Guia de funcionalidades para el usuario"
+        }, 
+        {
+            "location": "/guia/#agregar-receta", 
+            "text": "El barra de opciones ubicada en la parte inferior de la aplicaci\u00f3n, podras ver el icono  + , este indica que puedes agregar un recurso, en este caso una receta.  Cuando hagas tap sobre el icono se hara un cambio de vista donde podras ingresar los elementos ya sean imagenes, ingredientes o pasos para agregar una nueva receta. Cuando finalizes da tap sobre el boton de crear nueva receta e inmediatamente seras digirijido a la vista de tu timeline.", 
+            "title": "Agregar receta"
+        }, 
+        {
+            "location": "/guia/#listado-de-mis-recetas", 
+            "text": "En la barra inferior de la aplicaci\u00f3n, situada justo arriba de los botones de navegaci\u00f3n se visualiza el icono de persona, el cual te llevara a la vista de tu perfil. En esta vista encontraras un boton con la leyenda de mis recetas, presionalo y se desplegara la ista de tus recetas.", 
+            "title": "Listado de mis recetas"
+        }, 
+        {
+            "location": "/guia/#agregar-un-menu", 
+            "text": "El barra de opciones ubicada en la parte inferior de la aplicaci\u00f3n, podras ver el icono  + , este indica que puedes agregar un recurso, en este caso un menu.  Cuando presiones el icono cambiara a una vista donde podras ingresar los elementos correspondiente a menu, como son titutlo, descripci\u00f3n, recetas e imagenes donde podras aprovechar toda tu creatividad para ayudar a las personas que tu menu es el indicado para esa ocasi\u00f3n que buscan. Cuando finalizes presiona el boton de crear nuevo menu e inmediatamente seras digirijido a la vista de tu timeline.", 
+            "title": "Agregar un menu"
+        }, 
+        {
+            "location": "/guia/#listado-de-mis-menus", 
+            "text": "En la barra inferior de la aplicaci\u00f3n, situada justo arriba de los botones de navegaci\u00f3n se visualiza el icono de persona, el cual te llevara a la vista de tu perfil. En esta vista encontraras un boton con la leyenda de mis recetas, presionalo y se desplegara la ista de tus recetas.", 
+            "title": "Listado de mis menus"
+        }, 
+        {
+            "location": "/guia/#timeline", 
+            "text": "Esta es la vista predeterminada cuando se inicia la aplicaci\u00f3n. Si has perdido el foco de esta vista y deseas regresar a ella en el menu inferiro encontraras un boton con forma de lista, presionalo y desplegara la vista de timeline.    \u00a1No hay lugar como el hogar!", 
+            "title": "Timeline"
+        }, 
+        {
+            "location": "/guia/#mi-perfil", 
+            "text": "El barra de opciones ubicada en la parte inferior de la aplicaci\u00f3n, podras ver el icono de persona, cuando lo presiones mostrara una nueva vista con tu perfil. Es ta vista podras ver tanto tus recetas, menus y tus favoritos. Adem\u00e1s presentara informaci\u00f3n b\u00e1sica acerca de tu numero de tus seguidores.", 
+            "title": "Mi Perfil"
+        }, 
+        {
+            "location": "/guia/#todo-lo-demas", 
+            "text": "Sigue de cerca las nuevas funcionalidades en  nuestro repositorio . Cada nueva caracteristica implementada se agregara su respectivo uso y scheenshot al final de este documento y antes de esta secci\u00f3n.", 
+            "title": "Todo lo demas"
         }, 
         {
             "location": "/identidad/", 
