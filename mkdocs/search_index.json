@@ -93,7 +93,7 @@
         {
             "location": "/yomi-api/", 
             "text": "Yomi API documentation version v1\n\n\nhttp://yomi.mx\n\n\n\n\n/users\n\n\n/users\n\n\n\n\nget\n: \n\n\npost\n: \n\n\n\n\n/users/{user_id}\n\n\n\n\nget\n: \n\n\nput\n: \n\n\ndelete\n: \n\n\n\n\n/menus\n\n\n/menus\n\n\n\n\nget\n: \n\n\npost\n: \n\n\n\n\n/menus/{menu_id}\n\n\n\n\nget\n: \n\n\nput\n: \n\n\ndelete\n: \n\n\n\n\n/recipes\n\n\n/recipes\n\n\n\n\nget\n: \n\n\n\n\n/recipes/{recipe_id}\n\n\n\n\npost\n: \n\n\nput\n: \n\n\ndelete\n: \n\n\n\n\n/tips\n\n\n/glossary\n\n\n/timeline\n\n\n/timeline\n\n\n\n\nget\n: \n\n\n\n\n/profile\n\n\n/profile\n\n\n\n\nget\n: \n\n\nput\n: \n\n\ndelete\n:", 
-            "title": "Api"
+            "title": "API"
         }, 
         {
             "location": "/yomi-api/#yomi-api-documentation-version-v1", 
