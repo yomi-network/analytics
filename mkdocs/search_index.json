@@ -1,0 +1,84 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "\u00a1Bienvenido al centro de conocimiento de Yomi!\n\n\n\n\nRed social para el descubrimiento, b\u00fasqueda y recomendaci\u00f3n de men\u00fas y recetas de cocina con todas las instrucciones y t\u00e9rminos para que puedas prepararlas de forma f\u00e1cil y sin confusi\u00f3n.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#bienvenido-al-centro-de-conocimiento-de-yomi", 
+            "text": "Red social para el descubrimiento, b\u00fasqueda y recomendaci\u00f3n de men\u00fas y recetas de cocina con todas las instrucciones y t\u00e9rminos para que puedas prepararlas de forma f\u00e1cil y sin confusi\u00f3n.", 
+            "title": "\u00a1Bienvenido al centro de conocimiento de Yomi!"
+        }, 
+        {
+            "location": "/guia/", 
+            "text": "", 
+            "title": "Guia de usuario"
+        }, 
+        {
+            "location": "/identidad/", 
+            "text": "Guia de identidad de Yomi\n\n\nUso del logotipo\n\n\nPrincipal\n\n\nEl logotipo se podr\u00e1 utilizar con los fondos de los colores corporativos, cambiando el color coincidente con el color de fondo predeterminado.\n\n\n\n\nPositivo y Negativo\n\n\nEl logotipo no se aplicar\u00e1 en escala de grises. Para im\u00e1genes en blanco y\nnegro, el logotipo ira con una circulo en negro 100% y el logo en blanco\n100% y viceversa.\n\n\n\n\n\n\nOpciones de aplicaci\u00f3n\n\n\nLas disposiciones con las que se aplicar\u00e1 el logotipo ser\u00e1 de manera horizontal,\nrechazando cualquier otra posici\u00f3n siempre que no sea estrictamente necesario. El logotipo podr\u00e1 aplicarse en cualquier direcci\u00f3n siempre que se lea de izquierda a derecha y de abajo hacia arriba, pero la marca jam\u00e1s deber\u00e1 aplicarse volteada, tanto vertical como horizontalmente.\n\n\nColores corporativos\n\n\nEsquema de color\n: SPLIT\n\n\n\n\n\n\n\nrgb(255, 170, 77);\n\n\n\n\n\n\n\nrgb(109, 213, 195);\n\n\n\n\n\n\n\nrgb(138, 105, 212);", 
+            "title": "Manual de Identidad"
+        }, 
+        {
+            "location": "/identidad/#guia-de-identidad-de-yomi", 
+            "text": "", 
+            "title": "Guia de identidad de Yomi"
+        }, 
+        {
+            "location": "/identidad/#uso-del-logotipo", 
+            "text": "", 
+            "title": "Uso del logotipo"
+        }, 
+        {
+            "location": "/identidad/#principal", 
+            "text": "El logotipo se podr\u00e1 utilizar con los fondos de los colores corporativos, cambiando el color coincidente con el color de fondo predeterminado.", 
+            "title": "Principal"
+        }, 
+        {
+            "location": "/identidad/#positivo-y-negativo", 
+            "text": "El logotipo no se aplicar\u00e1 en escala de grises. Para im\u00e1genes en blanco y\nnegro, el logotipo ira con una circulo en negro 100% y el logo en blanco\n100% y viceversa.", 
+            "title": "Positivo y Negativo"
+        }, 
+        {
+            "location": "/identidad/#opciones-de-aplicacion", 
+            "text": "Las disposiciones con las que se aplicar\u00e1 el logotipo ser\u00e1 de manera horizontal,\nrechazando cualquier otra posici\u00f3n siempre que no sea estrictamente necesario. El logotipo podr\u00e1 aplicarse en cualquier direcci\u00f3n siempre que se lea de izquierda a derecha y de abajo hacia arriba, pero la marca jam\u00e1s deber\u00e1 aplicarse volteada, tanto vertical como horizontalmente.", 
+            "title": "Opciones de aplicaci\u00f3n"
+        }, 
+        {
+            "location": "/identidad/#colores-corporativos", 
+            "text": "Esquema de color : SPLIT    rgb(255, 170, 77);    rgb(109, 213, 195);    rgb(138, 105, 212);", 
+            "title": "Colores corporativos"
+        }, 
+        {
+            "location": "/FAQ/", 
+            "text": "\u00bfQu\u00e9 es Yomi?\n\n\nRed social para el descubrimiento, b\u00fasqueda y recomendaci\u00f3n de men\u00fas y recetas de cocina con todas las instrucciones y t\u00e9rminos para que puedas prepararlas de forma f\u00e1cil y sin confusi\u00f3n.\n\n\n\u00bfQu\u00e9 puedo hacer en Yomi?\n\n\nEn yomi puedes crear y compartir receta, menus y asi como descubrir nuevas recetas. Tambien puede ver cuales son las recetas m\u00e1s elaboradas y cuales son las m\u00e1s deliciosas de acuerdo a los gustos de la gente.\n\n\n\u00bfPor qu\u00e9 el color de Yomi es tan llamativo?\n\n\nSe hizo una larga consulta entre nuestro equipo de desarrolladores, cada que se les ponia un fondo naranja en sus computadoras y un bowl en la mesa con frutas variadas terminaban comiendose todas las frutas del bowl. La verdad no lo comprobamos si surtia el mismo efecto cuando no tenian el fondo. :P\n\n\n\u00bfPor que faltan tantas funcionalidades?\n\n\nNuestros servidores se actualizan por fuerza de un equipo de hamster, pero un d\u00eda alguien olvido cerrarles la puerta despues de alimentarlos y terminaran escapandose. Pero no te preocupes hemos puesto a un desarrollador como sustituci\u00f3n y pronto veras agregadas todas las funcionalidad prometidas.\n\n\nTengo una idea para agregar a Yomi \u00bfComo puedo hacerlo?\n\n\nNos encantaria escuchar que te gustaria ver en Yomi, por favor arega tu pregunta o petici\u00f3n en el siguiente sitio. \nBuzon de peticiones", 
+            "title": "FAQ"
+        }, 
+        {
+            "location": "/FAQ/#que-es-yomi", 
+            "text": "Red social para el descubrimiento, b\u00fasqueda y recomendaci\u00f3n de men\u00fas y recetas de cocina con todas las instrucciones y t\u00e9rminos para que puedas prepararlas de forma f\u00e1cil y sin confusi\u00f3n.", 
+            "title": "\u00bfQu\u00e9 es Yomi?"
+        }, 
+        {
+            "location": "/FAQ/#que-puedo-hacer-en-yomi", 
+            "text": "En yomi puedes crear y compartir receta, menus y asi como descubrir nuevas recetas. Tambien puede ver cuales son las recetas m\u00e1s elaboradas y cuales son las m\u00e1s deliciosas de acuerdo a los gustos de la gente.", 
+            "title": "\u00bfQu\u00e9 puedo hacer en Yomi?"
+        }, 
+        {
+            "location": "/FAQ/#por-que-el-color-de-yomi-es-tan-llamativo", 
+            "text": "Se hizo una larga consulta entre nuestro equipo de desarrolladores, cada que se les ponia un fondo naranja en sus computadoras y un bowl en la mesa con frutas variadas terminaban comiendose todas las frutas del bowl. La verdad no lo comprobamos si surtia el mismo efecto cuando no tenian el fondo. :P", 
+            "title": "\u00bfPor qu\u00e9 el color de Yomi es tan llamativo?"
+        }, 
+        {
+            "location": "/FAQ/#por-que-faltan-tantas-funcionalidades", 
+            "text": "Nuestros servidores se actualizan por fuerza de un equipo de hamster, pero un d\u00eda alguien olvido cerrarles la puerta despues de alimentarlos y terminaran escapandose. Pero no te preocupes hemos puesto a un desarrollador como sustituci\u00f3n y pronto veras agregadas todas las funcionalidad prometidas.", 
+            "title": "\u00bfPor que faltan tantas funcionalidades?"
+        }, 
+        {
+            "location": "/FAQ/#tengo-una-idea-para-agregar-a-yomi-como-puedo-hacerlo", 
+            "text": "Nos encantaria escuchar que te gustaria ver en Yomi, por favor arega tu pregunta o petici\u00f3n en el siguiente sitio.  Buzon de peticiones", 
+            "title": "Tengo una idea para agregar a Yomi \u00bfComo puedo hacerlo?"
+        }
+    ]
+}
