@@ -15,7 +15,7 @@
     
     
       
-        <title>Guia de usuario - Centro de Conocimiento de Yomi</title>
+        <title>Api - Centro de Conocimiento de Yomi</title>
       
     
     
@@ -75,7 +75,7 @@
             
               
             
-            Guia de usuario
+            Api
           
         </span>
       </div>
@@ -152,95 +152,11 @@
       
       
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
-    
-      
-    
-    
-      <label class="md-nav__link md-nav__link--active" for="toc">
-        Guia de usuario
-      </label>
-    
-    <a href="./" title="Guia de usuario" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="../guia/" title="Guia de usuario" class="md-nav__link">
       Guia de usuario
     </a>
-    
-      
-<nav class="md-nav md-nav--secondary">
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="toc">Table of contents</label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#agregar-receta" title="Agregar receta" class="md-nav__link">
-    Agregar receta
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#listado-de-mis-recetas" title="Listado de mis recetas" class="md-nav__link">
-    Listado de mis recetas
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#agregar-un-menu" title="Agregar un menu" class="md-nav__link">
-    Agregar un menu
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#listado-de-mis-menus" title="Listado de mis menus" class="md-nav__link">
-    Listado de mis menus
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#timeline" title="Timeline" class="md-nav__link">
-    Timeline
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#mi-perfil" title="Mi Perfil" class="md-nav__link">
-    Mi Perfil
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#todo-lo-demas" title="Todo lo demas" class="md-nav__link">
-    Todo lo demas
-  </a>
-  
-</li>
-      
-      
-      
-        <li class="md-nav__item">
-          <a href="#__comments" title="Comments" class="md-nav__link md-nav__link--active">
-            Comments
-          </a>
-        </li>
-      
-    </ul>
-  
-</nav>
-    
   </li>
 
     
@@ -260,11 +176,181 @@
       
       
 
+  
 
-  <li class="md-nav__item">
-    <a href="../yomi-api/" title="Api" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        Api
+      </label>
+    
+    <a href="./" title="Api" class="md-nav__link md-nav__link--active">
       Api
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#users" title="/users" class="md-nav__link">
+    /users
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#users_1" title="/users" class="md-nav__link">
+    /users
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#usersuser_id" title="/users/{user_id}" class="md-nav__link">
+    /users/{user_id}
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#menus" title="/menus" class="md-nav__link">
+    /menus
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#menus_1" title="/menus" class="md-nav__link">
+    /menus
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#menusmenu_id" title="/menus/{menu_id}" class="md-nav__link">
+    /menus/{menu_id}
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#recipes" title="/recipes" class="md-nav__link">
+    /recipes
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#recipes_1" title="/recipes" class="md-nav__link">
+    /recipes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#recipesrecipe_id" title="/recipes/{recipe_id}" class="md-nav__link">
+    /recipes/{recipe_id}
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips" title="/tips" class="md-nav__link">
+    /tips
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#glossary" title="/glossary" class="md-nav__link">
+    /glossary
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#timeline" title="/timeline" class="md-nav__link">
+    /timeline
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#timeline_1" title="/timeline" class="md-nav__link">
+    /timeline
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#profile" title="/profile" class="md-nav__link">
+    /profile
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#profile_1" title="/profile" class="md-nav__link">
+    /profile
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+        <li class="md-nav__item">
+          <a href="#__comments" title="Comments" class="md-nav__link md-nav__link--active">
+            Comments
+          </a>
+        </li>
+      
+    </ul>
+  
+</nav>
+    
   </li>
 
     
@@ -301,51 +387,137 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#agregar-receta" title="Agregar receta" class="md-nav__link">
-    Agregar receta
+  <a href="#users" title="/users" class="md-nav__link">
+    /users
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#users_1" title="/users" class="md-nav__link">
+    /users
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#usersuser_id" title="/users/{user_id}" class="md-nav__link">
+    /users/{user_id}
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#menus" title="/menus" class="md-nav__link">
+    /menus
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#menus_1" title="/menus" class="md-nav__link">
+    /menus
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#menusmenu_id" title="/menus/{menu_id}" class="md-nav__link">
+    /menus/{menu_id}
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#recipes" title="/recipes" class="md-nav__link">
+    /recipes
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#recipes_1" title="/recipes" class="md-nav__link">
+    /recipes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#recipesrecipe_id" title="/recipes/{recipe_id}" class="md-nav__link">
+    /recipes/{recipe_id}
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips" title="/tips" class="md-nav__link">
+    /tips
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#listado-de-mis-recetas" title="Listado de mis recetas" class="md-nav__link">
-    Listado de mis recetas
+  <a href="#glossary" title="/glossary" class="md-nav__link">
+    /glossary
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#agregar-un-menu" title="Agregar un menu" class="md-nav__link">
-    Agregar un menu
+  <a href="#timeline" title="/timeline" class="md-nav__link">
+    /timeline
   </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#timeline_1" title="/timeline" class="md-nav__link">
+    /timeline
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#listado-de-mis-menus" title="Listado de mis menus" class="md-nav__link">
-    Listado de mis menus
+  <a href="#profile" title="/profile" class="md-nav__link">
+    /profile
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#profile_1" title="/profile" class="md-nav__link">
+    /profile
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#timeline" title="Timeline" class="md-nav__link">
-    Timeline
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#mi-perfil" title="Mi Perfil" class="md-nav__link">
-    Mi Perfil
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#todo-lo-demas" title="Todo lo demas" class="md-nav__link">
-    Todo lo demas
-  </a>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -370,26 +542,58 @@
               
                 
                 
-                <h1 id="guia-de-funcionalidades-para-el-usuario">Guia de funcionalidades para el usuario</h1>
-<h2 id="agregar-receta">Agregar receta</h2>
-<p>El barra de opciones ubicada en la parte inferior de la aplicación, podras ver el icono <code>+</code>, este indica que puedes agregar un recurso, en este caso una receta.</p>
-<p>Cuando hagas tap sobre el icono se hara un cambio de vista donde podras ingresar los elementos ya sean imagenes, ingredientes o pasos para agregar una nueva receta. Cuando finalizes da tap sobre el boton de crear nueva receta e inmediatamente seras digirijido a la vista de tu timeline.</p>
-<h2 id="listado-de-mis-recetas">Listado de mis recetas</h2>
-<p>En la barra inferior de la aplicación, situada justo arriba de los botones de navegación se visualiza el icono de persona, el cual te llevara a la vista de tu perfil. En esta vista encontraras un boton con la leyenda de mis recetas, presionalo y se desplegara la ista de tus recetas.</p>
-<h2 id="agregar-un-menu">Agregar un menu</h2>
-<p>El barra de opciones ubicada en la parte inferior de la aplicación, podras ver el icono <code>+</code>, este indica que puedes agregar un recurso, en este caso un menu.</p>
-<p>Cuando presiones el icono cambiara a una vista donde podras ingresar los elementos correspondiente a menu, como son titutlo, descripción, recetas e imagenes donde podras aprovechar toda tu creatividad para ayudar a las personas que tu menu es el indicado para esa ocasión que buscan. Cuando finalizes presiona el boton de crear nuevo menu e inmediatamente seras digirijido a la vista de tu timeline.</p>
-<h2 id="listado-de-mis-menus">Listado de mis menus</h2>
-<p>En la barra inferior de la aplicación, situada justo arriba de los botones de navegación se visualiza el icono de persona, el cual te llevara a la vista de tu perfil. En esta vista encontraras un boton con la leyenda de mis recetas, presionalo y se desplegara la ista de tus recetas.</p>
-<h2 id="timeline">Timeline</h2>
-<p>Esta es la vista predeterminada cuando se inicia la aplicación. Si has perdido el foco de esta vista y deseas regresar a ella en el menu inferiro encontraras un boton con forma de lista, presionalo y desplegara la vista de timeline. </p>
-<blockquote>
-<p>¡No hay lugar como el hogar!</p>
-</blockquote>
-<h2 id="mi-perfil">Mi Perfil</h2>
-<p>El barra de opciones ubicada en la parte inferior de la aplicación, podras ver el icono de persona, cuando lo presiones mostrara una nueva vista con tu perfil. Es ta vista podras ver tanto tus recetas, menus y tus favoritos. Además presentara información básica acerca de tu numero de tus seguidores.</p>
-<h2 id="todo-lo-demas">Todo lo demas</h2>
-<p>Sigue de cerca las nuevas funcionalidades en <a href="https://github.com/yomi-network/app/issues">nuestro repositorio</a>. Cada nueva caracteristica implementada se agregara su respectivo uso y scheenshot al final de este documento y antes de esta sección.</p>
+                <h1 id="yomi-api-documentation-version-v1">Yomi API documentation version v1</h1>
+<p>http://yomi.mx</p>
+<hr />
+<h2 id="users">/users</h2>
+<h3 id="users_1">/users</h3>
+<ul>
+<li><strong>get</strong>: </li>
+<li><strong>post</strong>: </li>
+</ul>
+<h3 id="usersuser_id">/users/{user_id}</h3>
+<ul>
+<li><strong>get</strong>: </li>
+<li><strong>put</strong>: </li>
+<li><strong>delete</strong>: </li>
+</ul>
+<h2 id="menus">/menus</h2>
+<h3 id="menus_1">/menus</h3>
+<ul>
+<li><strong>get</strong>: </li>
+<li><strong>post</strong>: </li>
+</ul>
+<h3 id="menusmenu_id">/menus/{menu_id}</h3>
+<ul>
+<li><strong>get</strong>: </li>
+<li><strong>put</strong>: </li>
+<li><strong>delete</strong>: </li>
+</ul>
+<h2 id="recipes">/recipes</h2>
+<h3 id="recipes_1">/recipes</h3>
+<ul>
+<li><strong>get</strong>: </li>
+</ul>
+<h3 id="recipesrecipe_id">/recipes/{recipe_id}</h3>
+<ul>
+<li><strong>post</strong>: </li>
+<li><strong>put</strong>: </li>
+<li><strong>delete</strong>: </li>
+</ul>
+<h2 id="tips">/tips</h2>
+<h2 id="glossary">/glossary</h2>
+<h2 id="timeline">/timeline</h2>
+<h3 id="timeline_1">/timeline</h3>
+<ul>
+<li><strong>get</strong>: </li>
+</ul>
+<h2 id="profile">/profile</h2>
+<h3 id="profile_1">/profile</h3>
+<ul>
+<li><strong>get</strong>: </li>
+<li><strong>put</strong>: </li>
+<li><strong>delete</strong>: </li>
+</ul>
                 
                   
                 
@@ -424,7 +628,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href=".." title="Home" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../identidad/" title="Manual de Identidad" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -433,19 +637,19 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Home
+                Manual de Identidad
               </span>
             </div>
           </a>
         
         
-          <a href="../identidad/" title="Manual de Identidad" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../FAQ/" title="FAQ" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Manual de Identidad
+                FAQ
               </span>
             </div>
             <div class="md-flex__cell md-flex__cell--shrink">

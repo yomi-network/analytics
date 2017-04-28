@@ -27,6 +27,14 @@
 
     
     <url>
+     <loc>/yomi-api/</loc>
+     <lastmod>2017-04-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>/FAQ/</loc>
      <lastmod>2017-04-28</lastmod>
      <changefreq>daily</changefreq>

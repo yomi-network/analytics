@@ -91,6 +91,91 @@
             "title": "Colores corporativos"
         }, 
         {
+            "location": "/yomi-api/", 
+            "text": "Yomi API documentation version v1\n\n\nhttp://yomi.mx\n\n\n\n\n/users\n\n\n/users\n\n\n\n\nget\n: \n\n\npost\n: \n\n\n\n\n/users/{user_id}\n\n\n\n\nget\n: \n\n\nput\n: \n\n\ndelete\n: \n\n\n\n\n/menus\n\n\n/menus\n\n\n\n\nget\n: \n\n\npost\n: \n\n\n\n\n/menus/{menu_id}\n\n\n\n\nget\n: \n\n\nput\n: \n\n\ndelete\n: \n\n\n\n\n/recipes\n\n\n/recipes\n\n\n\n\nget\n: \n\n\n\n\n/recipes/{recipe_id}\n\n\n\n\npost\n: \n\n\nput\n: \n\n\ndelete\n: \n\n\n\n\n/tips\n\n\n/glossary\n\n\n/timeline\n\n\n/timeline\n\n\n\n\nget\n: \n\n\n\n\n/profile\n\n\n/profile\n\n\n\n\nget\n: \n\n\nput\n: \n\n\ndelete\n:", 
+            "title": "Api"
+        }, 
+        {
+            "location": "/yomi-api/#yomi-api-documentation-version-v1", 
+            "text": "http://yomi.mx", 
+            "title": "Yomi API documentation version v1"
+        }, 
+        {
+            "location": "/yomi-api/#users", 
+            "text": "", 
+            "title": "/users"
+        }, 
+        {
+            "location": "/yomi-api/#users_1", 
+            "text": "get :   post :", 
+            "title": "/users"
+        }, 
+        {
+            "location": "/yomi-api/#usersuser_id", 
+            "text": "get :   put :   delete :", 
+            "title": "/users/{user_id}"
+        }, 
+        {
+            "location": "/yomi-api/#menus", 
+            "text": "", 
+            "title": "/menus"
+        }, 
+        {
+            "location": "/yomi-api/#menus_1", 
+            "text": "get :   post :", 
+            "title": "/menus"
+        }, 
+        {
+            "location": "/yomi-api/#menusmenu_id", 
+            "text": "get :   put :   delete :", 
+            "title": "/menus/{menu_id}"
+        }, 
+        {
+            "location": "/yomi-api/#recipes", 
+            "text": "", 
+            "title": "/recipes"
+        }, 
+        {
+            "location": "/yomi-api/#recipes_1", 
+            "text": "get :", 
+            "title": "/recipes"
+        }, 
+        {
+            "location": "/yomi-api/#recipesrecipe_id", 
+            "text": "post :   put :   delete :", 
+            "title": "/recipes/{recipe_id}"
+        }, 
+        {
+            "location": "/yomi-api/#tips", 
+            "text": "", 
+            "title": "/tips"
+        }, 
+        {
+            "location": "/yomi-api/#glossary", 
+            "text": "", 
+            "title": "/glossary"
+        }, 
+        {
+            "location": "/yomi-api/#timeline", 
+            "text": "", 
+            "title": "/timeline"
+        }, 
+        {
+            "location": "/yomi-api/#timeline_1", 
+            "text": "get :", 
+            "title": "/timeline"
+        }, 
+        {
+            "location": "/yomi-api/#profile", 
+            "text": "", 
+            "title": "/profile"
+        }, 
+        {
+            "location": "/yomi-api/#profile_1", 
+            "text": "get :   put :   delete :", 
+            "title": "/profile"
+        }, 
+        {
             "location": "/FAQ/", 
             "text": "\u00bfQu\u00e9 es Yomi?\n\n\nRed social para el descubrimiento, b\u00fasqueda y recomendaci\u00f3n de men\u00fas y recetas de cocina con todas las instrucciones y t\u00e9rminos para que puedas prepararlas de forma f\u00e1cil y sin confusi\u00f3n.\n\n\n\u00bfQu\u00e9 puedo hacer en Yomi?\n\n\nEn yomi puedes crear y compartir receta, menus y asi como descubrir nuevas recetas. Tambien puede ver cuales son las recetas m\u00e1s elaboradas y cuales son las m\u00e1s deliciosas de acuerdo a los gustos de la gente.\n\n\n\u00bfPor qu\u00e9 el color de Yomi es tan llamativo?\n\n\nSe hizo una larga consulta entre nuestro equipo de desarrolladores, cada que se les ponia un fondo naranja en sus computadoras y un bowl en la mesa con frutas variadas terminaban comiendose todas las frutas del bowl. La verdad no lo comprobamos si surtia el mismo efecto cuando no tenian el fondo. :P\n\n\n\u00bfPor que faltan tantas funcionalidades?\n\n\nNuestros servidores se actualizan por fuerza de un equipo de hamster, pero un d\u00eda alguien olvido cerrarles la puerta despues de alimentarlos y terminaran escapandose. Pero no te preocupes hemos puesto a un desarrollador como sustituci\u00f3n y pronto veras agregadas todas las funcionalidad prometidas.\n\n\nTengo una idea para agregar a Yomi \u00bfComo puedo hacerlo?\n\n\nNos encantaria escuchar que te gustaria ver en Yomi, por favor arega tu pregunta o petici\u00f3n en el siguiente sitio. \nBuzon de peticiones", 
             "title": "FAQ"
